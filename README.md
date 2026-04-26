@@ -28,8 +28,8 @@ The dataset includes:
 	•	Certain states contribute more to churn
 
 🖼️ Dashboard Preview
-![mtn-analysis](mtn-churn-analysis.png)
-![mtn-analysis](mtn-churn-analysis-2.png)
+![mtn-analysis](mtn-customer-churn-dashbboard.png)
+![mtn-analysis](mtn-customer-churn-dashboard2.png)
 
 💡 Recommendations
 	•	Improve network quality
