@@ -11,7 +11,7 @@ This project analyzes customer behavior, revenue trends, and churn patterns in a
 	•	Analyze customer usage patterns
 
 🛠️ Tools Used
-	•	Power BI for DAX measurement
+	•	Power BI 
 
 📂 Dataset
 
